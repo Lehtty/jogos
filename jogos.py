@@ -4,7 +4,7 @@ import adivinhacao
 def escolha_de_jogos():
     print("                ")
     print("****************")
-    print("Escolha um jogo!")
+    print("Escolha um jogo!!")
     print("****************")
     print("                ")
 
